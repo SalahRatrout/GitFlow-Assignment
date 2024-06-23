@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello World!");
    
     }
-    public int  sum(int a, int b,int c) {
-        return a + b + c;
+    public int  sum(int a, int b,int c, int d) {
+        return a + b + c + d;
     }
 }
