@@ -4,8 +4,7 @@ public class Main {
         System.out.println("Hello World!");
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
+    public int subtract(int a, int b) {
+        return a-b;
     }
 }
