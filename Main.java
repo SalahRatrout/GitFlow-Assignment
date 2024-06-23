@@ -8,4 +8,8 @@ public class Main {
     public int  sum(int a, int b, int f) {
         return a + b + f;
     }
+
+    public int mul(int a, int b){
+        return a * b;
+    }
 }
