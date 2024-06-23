@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Assalam Alykoum");
         System.out.println("Alykoum Salam");
         System.out.println("Merhaba");
+        System.out.println("Merhaba Salam");
     }
 }
