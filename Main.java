@@ -9,7 +9,7 @@ public class Main {
         return a + b + f;
     }
 
-    public int mul(int a, int b){
-        return a * b;
+    public int mul3(int a, int b, int c){
+        return a * b * c;
     }
 }
